@@ -1,0 +1,7 @@
+C:\Users\Johnny\Desktop\C#\Numbers\Numbers\bin\Debug\Numbers.exe.config
+C:\Users\Johnny\Desktop\C#\Numbers\Numbers\bin\Debug\Numbers.exe
+C:\Users\Johnny\Desktop\C#\Numbers\Numbers\bin\Debug\Numbers.pdb
+C:\Users\Johnny\Desktop\C#\Numbers\Numbers\obj\Debug\Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Johnny\Desktop\C#\Numbers\Numbers\obj\Debug\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\Desktop\C#\Numbers\Numbers\obj\Debug\Numbers.exe
+C:\Users\Johnny\Desktop\C#\Numbers\Numbers\obj\Debug\Numbers.pdb
